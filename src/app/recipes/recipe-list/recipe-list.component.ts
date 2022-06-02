@@ -18,7 +18,7 @@ export class RecipeListComponent implements OnInit {
       'A Second Test Recipe',
       'This is a description',
       'https://cooksandeats.com/wp-content/uploads/2016/05/IMG_1979.jpg'
-    ),
+    )
   ];
 
   constructor() { }
